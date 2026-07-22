@@ -6,6 +6,8 @@ import AdminRegister from "./pages/AdminRegister.jsx";
 import AdminDashboard from "./pages/AdminDashboard.jsx";
 import ProtectedRoute from "./components/ProtectedRoute.jsx";
 
+
+
 const App = () => {
   return (
     <Routes>
