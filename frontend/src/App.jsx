@@ -7,7 +7,6 @@ import AdminDashboard from "./pages/AdminDashboard.jsx";
 import ProtectedRoute from "./components/ProtectedRoute.jsx";
 
 
-
 const App = () => {
   return (
     <Routes>
